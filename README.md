@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Carolina Reedy
-- 👀 I’m interested in web-font developer
-- 🌱 I’m currently learning web fullstack develepoment
-- 💞️ I’m looking to collaborate on everything that I can while I am still learning.
+- 
+- WELCOME TO MY PROFILE!!!!! 
+- - 👀 I have a BS in Computer Science.
+- - 🌱 I’m currently learning web fullstack develepoment and practicing all the languages that I can.
+- - 💞️ I’m looking to collaborate on everything that I can while I am still learning.
 - 📫 How to reach me @ carinvid@gmail.com
 
 <img src='https://github.com/carinvid/Carolina.Reedy/blob/main/assets/images/PortfolioScreenS.jpg'>
