@@ -2,9 +2,10 @@
 - 
 - WELCOME TO MY PROFILE!!!!! 
 - - 👀 I have a BS in Computer Science.
-- - 🌱 I’m currently learning web fullstack develepoment and practicing all the languages that I can.
+- - 🌱 I’m currently learning more about Web fullstack develepoment and practicing all the languages that I can (Java, C++, C#, Data storage).
 - - 💞️ I’m looking to collaborate on everything that I can while I am still learning.
 - 📫 How to reach me @ carinvid@gmail.com
+- FUN FACT "I love to travel"
 
 <img src='https://github.com/carinvid/Carolina.Reedy/blob/main/assets/images/PortfolioScreenS.jpg'>
 <!---
