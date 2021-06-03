@@ -2,7 +2,7 @@
 - 
 - WELCOME TO MY PROFILE!!!!! 
 - - 👀 I have a BS in Computer Science.
-- - 🌱 I’m currently learning more about Web fullstack develepoment and practicing all the languages that I can (Java, C++, C#, Data storage).
+- - 🌱 I’m currently learning more about Web fullstack develepoment having a Bootcamp classes at University of Utah.
 - - 💞️ I’m looking to collaborate on everything that I can while I am still learning.
 - 📫 How to reach me @ carinvid@gmail.com
 - FUN FACT "I love to travel"
