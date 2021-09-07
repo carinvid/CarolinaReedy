@@ -12,3 +12,8 @@
 carinvid/carinvid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+RESUME 
+
+[Carolina Reedy.Resume.pdf](https://github.com/carinvid/carinvid/files/7123902/Carolina.Reedy.Resume.pdf)
+
