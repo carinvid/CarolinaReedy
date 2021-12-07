@@ -1,5 +1,9 @@
 - 👋 Hi, I’m Carolina Reedy
-- 
+
+RESUME 
+
+[CAROLINA REEDY resume.pdf](https://github.com/carinvid/carinvid/files/7665394/CAROLINA.REEDY.resume.pdf)
+
 - WELCOME TO MY PROFILE!!!!! 
 - - 👀 I have a BS in Computer Science.
 - - 🌱 I’m currently learning more about Web fullstack develepoment having a Bootcamp classes at University of Utah.
@@ -13,6 +17,3 @@ carinvid/carinvid is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-RESUME 
-
-[CAROLINA REEDY resume.pdf](https://github.com/carinvid/carinvid/files/7665394/CAROLINA.REEDY.resume.pdf)
