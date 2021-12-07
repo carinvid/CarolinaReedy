@@ -15,5 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 RESUME 
 
-[Carolina Reedy.Resume.pdf](https://github.com/carinvid/carinvid/files/7123902/Carolina.Reedy.Resume.pdf)
-
+[CAROLINA REEDY resume.pdf](https://github.com/carinvid/carinvid/files/7665394/CAROLINA.REEDY.resume.pdf)
