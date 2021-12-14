@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Carolina Reedy
 
 RESUME 
+[CAROLINA REEDY resume.pdf](https://github.com/carinvid/CarolinaReedy/files/7713682/CAROLINA.REEDY.resume.pdf)
 
-[CAROLINA REEDY resume.pdf](https://github.com/carinvid/carinvid/files/7665394/CAROLINA.REEDY.resume.pdf)
+
 
 - WELCOME TO MY PROFILE!!!!! 
 - - 👀 I have a BS in Computer Science.
