@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Carolina Reedy
 
 RESUME 
-[CAROLINA REEDY resume.pdf](https://github.com/carinvid/CarolinaReedy/files/7713682/CAROLINA.REEDY.resume.pdf)
+
+[CAROLINA REEDY resume.pdf](https://github.com/carinvid/CarolinaReedy/files/7716775/CAROLINA.REEDY.resume.pdf)
 
 
 
