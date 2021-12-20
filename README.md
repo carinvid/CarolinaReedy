@@ -4,7 +4,7 @@ RESUME
 
 [CAROLINA REEDY resume.pdf](https://github.com/carinvid/CarolinaReedy/files/7716775/CAROLINA.REEDY.resume.pdf)
 
-
+TO SEE MY REACT-PORTFOLIO https://carinvid.github.io/react-portfolio/
 
 - WELCOME TO MY PROFILE!!!!! 
 - - 👀 I have a BS in Computer Science.
