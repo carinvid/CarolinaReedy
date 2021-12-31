@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Carolina Reedy
+- 👋 I AM A FULL STACK DEVELOPER!!!!! :grinning: :grinning:
 
 RESUME 
 
@@ -8,8 +9,8 @@ TO SEE MY REACT-PORTFOLIO https://carinvid.github.io/react-portfolio/
 
 - WELCOME TO MY PROFILE!!!!! 
 - - 👀 I have a BS in Computer Science.
-- - 🌱 I’m currently learning more about Web fullstack develepoment having a Bootcamp classes at University of Utah.
-- - 💞️ I’m looking to collaborate on everything that I can while I am still learning.
+- - 🌱 I finished a Full Stack Developer Bootcamp classes at University of Utah.
+- - 💞️ I am taking PHYTON and JAVA courses at Udemy.
 - 📫 How to reach me @ carinvid@gmail.com
 - FUN FACT "I love to travel"
 
